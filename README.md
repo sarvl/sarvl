@@ -2,11 +2,12 @@ Interested in:
   -utility software  
   -operating systems  
   -computer architecture  
-  -compilers
+  -compilers  
   -low level code   
   
 Currently learning  
-  -compilers 
+  -Operating Systems  
+  -x86 asm  
   -C++  
 
 How to reach me  
