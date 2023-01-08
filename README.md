@@ -6,10 +6,8 @@ Interested in:
   -low level code   
   
 Currently learning  
-  -Operating Systems  
-  -x86 asm  
+  -algorithms
   -C++  
 
 How to reach me  
   -mail:     ridren@protonmail.com  
-  -discord:  ridren#9752  
