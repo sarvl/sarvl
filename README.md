@@ -6,8 +6,8 @@ Interested in:
   -low level code   
   
 Currently learning  
-  -algorithms
-  -C++  
-
+  -computer architecture  
+  -x86asm  
+  
 How to reach me  
-  -mail:     ridren@protonmail.com  
+  -mail:     sarvel@protonmail.com  
