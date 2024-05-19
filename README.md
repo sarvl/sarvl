@@ -1,13 +1,16 @@
 Interested in:  
-  -utility software  
-  -operating systems  
-  -computer architecture  
-  -compilers  
+  -computer architecture    
   -low level code   
-  
-Currently learning  
-  -computer architecture  
-  -x86asm  
+  -high performance code
+  -x86  
+  -utility software  
+  -operating systems   
+
+see: https://sarvel.xyz  
   
 How to reach me  
-  -mail:     sarvel@protonmail.com  
+  -mail:     sarvel at protonmail dot com  
+  -discord:  sarvel2461
+
+
+per aspera ad astra
