@@ -1,9 +1,10 @@
 Interested in:  
   -computer architecture    
   -low level code   
-  -high performance code
+  -fpga  
+  -high performance code  
   -x86  
-  -utility software  
+  -electronics
   -operating systems   
 
 see: https://sarvel.xyz  
