@@ -1,17 +1,24 @@
-Interested in:  
-  -computer architecture    
-  -low level code   
-  -fpga  
-  -high performance code  
-  -x86  
-  -electronics
-  -operating systems   
+## Interested In  
+  - computer architecture    
+  - low level code   
+  - fpga  
+  - high performance code  
+  - x86  
+  - electronics
+  - operating systems   
 
-see: https://sarvel.xyz  
+## Full Stack Developer
+  - c++
+  - assembly  
+  - vhdl  
+
+## Website
+https://sarvel.xyz  
   
-How to reach me  
+## Contact 
   -mail:     sarvel at protonmail dot com  
   -discord:  sarvel2461
 
+<hr>  
 
-per aspera ad astra
+### per aspera ad astra
